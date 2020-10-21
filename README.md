@@ -9,5 +9,5 @@ Regression: Training a machine to automatically convert temperatures from celciu
 
 Classification: Using database from MNIST, we classified grey pictures of clothing to their specified groups.
 
-##21 October 2020:
+## 21 October 2020:
 Finished lesson 4 and wrapped it up by completing an exercise about it. To be honest, I think we can optimize the model since the accuracy is still 0.6 and the simulation ran for more than 30 minutes which is too long for me. 
