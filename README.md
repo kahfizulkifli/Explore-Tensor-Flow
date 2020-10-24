@@ -14,3 +14,6 @@ Finished lesson 5 and wrapped it up by completing an exercise about it. To be ho
 
 ## 22 October 2020:
 Learned about transfer learning and applied it to classifying flowers by using MobileNet
+
+## 24 October 2020:
+Finished lesson 7 of the course which talked about saving and loading models
